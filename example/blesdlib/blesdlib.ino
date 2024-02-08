@@ -19,7 +19,7 @@ void setup() {
   if (!SD.begin(4)) {
     return;
   }
- myFile = SD.open("4pin.txt");
+ myFile = SD.open("example.txt");
  attack();
 }
 
