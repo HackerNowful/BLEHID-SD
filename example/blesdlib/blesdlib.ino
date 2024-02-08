@@ -9,14 +9,8 @@
  *        Hi Guys It's an Bluetooth based HID attack [ Rubber Ducky ] ,  
  *        you can Directly use an Ducky Scripts here with an sd card options  
  *        
- *  Connection :
- *  Esp32   -  Sdcard
- *  GPIO4   -   CS
- *  GPIO18  -   SCK
- *  GPIO23  -   MOSI
- *  GPIO19  -   MISO
- *  V5      -   VCC
- *  GND     -   GND
+
+
  */
 #include "blesdlib.h"
 
